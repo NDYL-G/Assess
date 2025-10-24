@@ -1,0 +1,79 @@
+{
+  "title": "Continuous Professional Development",
+    "content": [
+        {
+            "heading": "Connectivity 101",
+            "text": "NiCE",
+            "dates": "2025 October 24th to 29th - 36 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Personal Connection",
+            "text": "NiCE",
+            "dates": "2025 October 22nd to 23rd - 16 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Mpower Log Decoder",
+            "text": "NiCE",
+            "dates": "2025 October 20th to 21st - 16 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Mpower Basic Studio Scripting (Digital)",
+            "text": "NiCE",
+            "dates": "2025 October 17th - 8 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Mpower Basic Studio Scripting (Legacy)",
+            "text": "NiCE",
+            "dates": "2025 October 14th to 16th - 24 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "API Training",
+            "text": "NiCE",
+            "dates": "2025 October 13th - 8 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Introduction to Quality Management",
+            "text": "NiCE",
+            "dates": "2025 October 10th - 8 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Swarm and KI",
+            "text": "NiCE",
+            "dates": "2025 October 9th - 8 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Case Creation and Management",
+            "text": "NiCE",
+            "dates": "2025 October 8th - 8 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Mpower Applications",
+            "text": "NiCE",
+            "dates": "2025 October 1st to 6th - 24 hours",
+            "logo": "../img/nice.webp"
+        },{
+            "heading": "Portfolio Introduction",
+            "text": "NiCE",
+            "dates": "2025 September 30th - 8 hours",
+            "logo": "../img/nice.webp"
+        },
+		{
+            "heading": "Tools Overview and Setup",
+            "text": "NiCE",
+            "dates": "2025 September 29th - 8 hours",
+            "logo": "../img/nice.webp"
+        },
+		{
+            "heading": "Portfolio Introduction",
+            "text": "NiCE",
+            "dates": "2025 September 30 - 8 hours",
+            "logo": "../img/nice.webp"
+        }		,
+		{
+            "heading": "Portfolio Introduction",
+            "text": "NiCE",
+            "dates": "2025 September 30 - 8 hours",
+            "logo": "../img/nice.webp"
+        }
+    ]
+}

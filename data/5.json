@@ -1,0 +1,102 @@
+{
+    "title": "Education and Certifications",
+    "content": [
+        {
+            "heading": "BSc Applied Computing Technologies (1st)",
+            "text": "University of Plymouth",
+            "dates": "2021",
+            "logo": "../img/plymouth.png"
+        },
+        {
+            "heading": "PRINCE2 Foundation",
+            "text": "(Practitioner in Progress)",
+            "dates": "2024",
+            "logo": "../img/prince2.png"
+        },
+        {
+            "heading": "ISTQB Foundation in Software Testing",
+            "text": "In Progress (Expected 2025)",
+            "logo": "../img/istqb.png"
+        },
+        {
+            "heading": "Silver Peak",
+            "text": "Software Derived WAN",
+            "dates": "2021",
+            "logo": "../img/silverpeak.webp"
+        },
+        {
+            "heading": "Communication Certifications",
+            "text": [
+                "Mitel",
+                "Shoretel",
+                "Oaisys",
+                "Siemens/Unify",
+                "LG iPecs",
+                "Nortel"
+            ],
+            "logo": [
+                "../img/mitel.png",
+                "../img/shoretel.png",
+                "../img/oaisys.png",
+                "../img/siemens.jpg",
+                "../img/ipecs.png",
+                "../img/nortel.png"
+            ]
+        },
+        {
+            "heading": "Cisco Academy",
+            "text": "2-year training course for CISCO CCNA",
+            "dates": "2008",
+            "logo": "../img/cisco.png"
+        },
+        {
+            "heading": "Open University",
+            "text": "Electronic Communications",
+            "dates": "2006",
+            "logo": "../img/ou.png"
+        },
+        
+        {
+            "heading": "Advanced Office Technology",
+            "text": "Integrated Business Technology Stage 3 (Advanced MS Office)",
+            "dates": "2003",
+            "logo": "../img/ocr.png"
+        },
+        {
+            "heading": "Management and Assessment Awards",
+            "text": [
+                "NVQ Level 4 Management and Training/Development, 2003",
+                "D32 & D33 (Assessor), 2002",
+                "D34 (Internal Verifier), 2002",
+                "C26 & D11 (Mentor), 2002"
+            ],
+            "logo": "../img/eal.jpg"
+        },
+        {
+            "heading": "BTEC HNC",
+            "text": "Electrical/Electronic Engineering",
+            "dates": "1997",
+            "logo": "../img/btec.png"
+        },
+        {
+            "heading": "Engineering & Technical",
+            "text": [
+                "NVQ Level 3 – Control and Instrumentation Equipment, 1995",
+                "BTEC Electrical/Electronic Engineering, 1994",
+                "City and Guilds – Maintenance Craft Studies in Measurement and Control Part 2, 1994",
+                "City and Guilds – Communications Skills Level II, 1993",
+                "City and Guilds – Basic Engineering Competences, 1992"
+            ],
+            "logo": [
+                "../img/btec.png",
+                "../img/c&g.webp"
+            ]
+        },
+        {
+            "heading": "Secondary Education",
+            "text": "9 x GCSEs (including Mathematics and English)",
+            "dates": "1986–1995",
+            "logo": "../img/ocr.png"
+        }
+    ]
+}

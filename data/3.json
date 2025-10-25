@@ -8,63 +8,82 @@
     },
     {
       "heading": "Customer Service Practitioner",
-      "date": "ST0117 Level 4",
+      "date": "",
       "text": "Advising organisations on best practice, how to measure performance and justify changes to processes and approaches."
     },
     {
       "heading": "Customer Service Specialist",
+      "date": "",
       "text": "Advising organisations on best practice, how to measure performance and justify changes to processes and approaches."
     },
     {
       "heading": "Data Analyst",
+      "date": "ST0118 Level 4",
       "text": "Supporting customers to understand how to retrieve data from a variety of sources, combine to inform to enable business making decisions."
     },
     {
       "heading": "Data Technician",
+      "date": "ST0795 Level 3",
       "text": "Supporting customers to understand how to retrieve data from a variety of sources, combine to inform to enable business making decisions."
     },
     {
       "heading": "Digital Support Technician",
+      "date": "",
       "text": "Provision of training and advice to super users in a variety of sectors."
     },
     {
-      "heading": "Engineering Fitter",
-      "text": "Followed an indentured, traditional apprenticeship and further experience in control and instrumentation."
+      "heading": "Data Engineer",
+      "date": "ST1386 Level 4",
+      "text": ""
     },
     {
       "heading": "Engineering Operative",
+      "date": "",
       "text": "Vast experience in the manufacturing of communcation equipment with leading industry names."
     },
     {
       "heading": "Information Communications Technician",
+      "date": "ST0973 Level 3",
       "text": "Many years working in the ICT industry, initially starting with analague and digital devices leading on to VoIP and SIP, virtualisation and coding."
     },
     {
+      "heading": "IT Solutions Technician",
+      "date": "ST0505 Level 3",
+      "text": ""
+    },
+    {
       "heading": "Infrastructure Technician",
+      "date": "",
       "text": "Designing, installing and supporting a variety of products and services inclusing networking, virtualisation, cloud and on-premise solutions."
     },
     {
       "heading": "IT Technical Salesperson",
+      "date": "",
       "text": "Presales and solution architecture is one of my main skills, keeping approaches personable and describing intricate technologies to clients with a variety of levels of technical understanding."
     },
     {
       "heading": "Maintenance Operations Engineering Technician",
+      "date": "",
       "text": ""
     },
     {
       "heading": "Network Engineer",
+      "date": "ST0127 Level 4",
       "text": "VoIP, SIP and integration to clients networks has meant a broad undertsanding to implement a new solution to their existing network."
     },
     {
       "heading": "Software Developer",
+      "date": "",
       "text": ""
     },
     {
-      "heading": "Team Leader Supervisor",
+      "heading": "Team Lead",
+      "date": "ST0384 Level 3",
       "text": "Team lead for an international technical suppoort team in an AI leading organisation in the communication sector."
     },
     {
       "heading": "Unified Communications Technician",
+      "date": "",
       "text": "A plethora of experience in the communciations industry, including the design, delivery and support of a variety of solutions."
     }
   ]
